@@ -34,7 +34,7 @@ public class ForgetPasswordActivity extends Activity implements OnClickListener 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_signup);
+        setContentView(R.layout.activity_frogetpwd);
 
         initViews();
         codeManager = new VerifyCodeManager(this, phoneEdit, getVerifiCodeButton);
