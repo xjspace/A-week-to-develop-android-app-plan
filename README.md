@@ -33,10 +33,7 @@
 [登录注册解决方案](https://github.com/fanatic-mobile-developer-for-android/A-week-to-develop-android-app-plan/tree/master/002_LoginAndRegisterModule)
 
 [完整开发框架](https://github.com/fanatic-mobile-developer-for-android/A-week-to-develop-android-app-plan/tree/master/AndroidQuickStartProject)
-持续更新中。。。
 
-##关注我的github
-[https://github.com/devilWwj](https://github.com/devilWwj)
 
-##移动开发狂热者github组织
-[https://github.com/fanatic-mobile-developer-for-android/A-week-to-develop-android-app-plan](https://github.com/fanatic-mobile-developer-for-android/A-week-to-develop-android-app-plan)
+
+
