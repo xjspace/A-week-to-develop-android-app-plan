@@ -1,4 +1,4 @@
-# A-week-to-develop-android-app-plan    ## 作者：小巫  https://github.com/fanatic-mobile-developer-for-android/A-week-to-develop-android-app-plan
+
 # 一周开发Android App计划
 
 #概述
@@ -12,6 +12,7 @@
 
 [完整开发框架](https://github.com/fanatic-mobile-developer-for-android/A-week-to-develop-android-app-plan/tree/master/AndroidQuickStartProject)
 
-
+# A-week-to-develop-android-app-plan    
+## 原作者：小巫 https://github.com/fanatic-mobile-developer-for-android/A-week-to-develop-android-app-plan
 
 
